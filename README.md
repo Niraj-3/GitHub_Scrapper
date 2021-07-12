@@ -1,2 +1,2 @@
 # GitHub_Scrapper
-Simple Web Scrapping Project-- GitHub Scrapper
+Simple Web Scrapping Project-- GitHub WebScrapping
